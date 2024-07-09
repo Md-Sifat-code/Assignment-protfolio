@@ -600,3 +600,20 @@ input[type="text"]{
     font-weight: 800;
     cursor: pointer;
 }
+/* footer-part */
+.sub-foot{
+    position: static;
+    width: 1240px;
+    height: 36px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    margin: 32px 0px;
+    margin-left: 340px;
+    gap: 550px;
+}
+.foot-icon{
+    cursor: pointer;
+}
