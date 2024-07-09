@@ -249,7 +249,7 @@
     align-items: center;
     padding: 12px 20px 12px 20px;
     margin: 32px 0px;
-    margin-top: 85px;
+    margin-top: 28px;
 }
 .box-2{
     width: 850px;
@@ -297,7 +297,7 @@
     align-items: center;
     padding: 12px 20px 12px 20px;
     margin: 32px 0px;
-    margin-top: 60px;
+    margin-top: 30px;
 }
 .box-3{
     width: 850px;
@@ -370,7 +370,7 @@ justify-content: flex-start;
 align-items: center;
 padding: 0px;
 margin: 111px 0px;
-border: 2px solid red;
+/* border: 2px solid red; */
 margin-left: 20%;
 }
 .discription1{
@@ -465,6 +465,7 @@ margin-left: 20%;
     line-height: 26px;
     letter-spacing: 0%;
     text-align: left;
+    margin-bottom: 25px;
 }
 .css>a{
     color: rgb(13, 19, 33);
@@ -509,6 +510,7 @@ margin-left: 20%;
     line-height: 26px;
     letter-spacing: 0%;
     text-align: left;
+    margin-bottom: 25px;
 }
 .js>a{
     color: rgb(13, 19, 33);
@@ -519,4 +521,26 @@ margin-left: 20%;
     text-align: left;
     text-decoration-line: underline;
     margin-top: 18px;
+}
+/* Submit-part */
+.submit{
+
+    width: 1140px;
+    height: 313px;
+    left: 150px;
+    right: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 64px 48px 64px 48px;
+    /* border: 2px solid red; */
+    margin-left: 17%;
+    border-radius: 16px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)), url(../images/handshake.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
 }
