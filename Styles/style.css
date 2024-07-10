@@ -132,6 +132,12 @@
     border-radius: 8px;
     background: rgb(13, 19, 33);
     color: white;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+.div-devloper>a{
+    text-decoration: none;
+    cursor: pointer;
 }
 /* Next part Styles */
 .next-part{
